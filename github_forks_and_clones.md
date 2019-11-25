@@ -8,7 +8,7 @@ Git clones and forks are two different ways of creating a copy of a directory.
 
 # Cloning a Repository
 
-To clone a repository you go to that repository on github, look for the big green button that says "Clone or download" ![github clone](/images/github-clone.png) If you've set up your ssh key choose "clone with ssh" otherwise use "clone with https"
+To clone a repository you go to that repository on github, look for the big green button that says "Clone or download" ![github clone](https://res.cloudinary.com/btvca/image/upload/v1574445176/curriculum/github-clone_pl1azi.png) If you've set up your ssh key choose "clone with ssh" otherwise use "clone with https"
 
 Copy the link it gives you to your clipboard, then in the location you want to clone your directory into type into the terminal `git clone ` and paste the link you just copied after the `git clone` seperated by a space.
 
@@ -30,9 +30,9 @@ The solution to this is to create a new branch `git checkout -b unique-branch-na
 
 # Pull Requests
 
-Creating a pull request is fairly simple you just need to navigate to the "pull" tab ![Pull Request](/images/github-pull.png)
+Creating a pull request is fairly simple you just need to navigate to the "pull" tab ![Pull Request](https://res.cloudinary.com/btvca/image/upload/v1574445177/curriculum/github-pull_p2thhk.png)
 
-Select the branches you want to compare (usually master and your working branch) ![example pull](/images/example-pull.png)
+Select the branches you want to compare (usually master and your working branch) ![example pull](https://res.cloudinary.com/btvca/image/upload/v1574445174/curriculum/example-pull_rd64u8.png)
 
 Then click on "Create pull request"
 

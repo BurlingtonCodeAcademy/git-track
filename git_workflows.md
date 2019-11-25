@@ -31,7 +31,7 @@ Using this strategy, you would **merge** the **development** branch into **maste
 
 # Example: Long Running Diagram
 
-![Long Running Branches](/images/long-running-branches-many.png "Long Running Branches")
+![Long Running Branches](https://res.cloudinary.com/btvca/image/upload/v1574445187/curriculum/long-running-branches-many_x3hbig.png "Long Running Branches")
 
 # Example: Long Running Code
 
@@ -75,11 +75,11 @@ $ git push origin/master
 
 # Example: Feature Branch Diagram
 
-![Topic Branches with Merge](/images/topic-branches-merged.png "Topic Branches with Merge")
+![Topic Branches with Merge](https://res.cloudinary.com/btvca/image/upload/v1574445208/curriculum/topic-branches-merged_axy1fo.png "Topic Branches with Merge")
 
 # Example: Feature Branches Many
 
-![Topic Branches Many](/images/topic-branches-git.png "Topic Branches Many")
+![Topic Branches Many](https://res.cloudinary.com/btvca/image/upload/v1574445208/curriculum/topic-branches-git_hyyft1.png "Topic Branches Many")
 
 # Continuous Delivery
 

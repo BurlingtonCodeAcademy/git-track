@@ -290,7 +290,7 @@ index 0000000..9f0ab0a
 
 Now we remember ... 
 
-![chunky monkey](/images/chunky-monkey-detail.png)
+![chunky monkey](https://res.cloudinary.com/btvca/image/upload/v1574445169/curriculum/chunky-monkey-detail_zveojk.png)
 
 Oh, Chunky Monkey, how could I ever forget you?
 
@@ -333,7 +333,7 @@ It's saying "milk" and "chunky monkey ice cream" were *removed*, and "ketchup" w
 # LAB: Push It To The Limit
 
 1. Sign in to [GitHub.com](https://github.com) and create a repository
-![new github repo](/images/new-repository.png)
+![new github repo](https://res.cloudinary.com/btvca/image/upload/v1574445190/curriculum/new-repository_prackb.png)
 2. Name it the same as your local repo directory (`shopping`)
 3. **Don't** initialize it with a README
 4. Follow the "if you have a repo already" instructions
@@ -352,7 +352,7 @@ Now reload the page and see your changes!
 > Git does not automatically push and pull changes!
 
 1. **On GitHub.com**, find your `shopping` repo and click on `groceries.txt`
-2. Find the **pencil icon** on the upper right and click it -- this opens a text editor **inside your browser** ![github pencil](/images/github-pencil.png)
+2. Find the **pencil icon** on the upper right and click it -- this opens a text editor **inside your browser** ![github pencil](https://res.cloudinary.com/btvca/image/upload/v1574445176/curriculum/github-pencil_kyovwk.png)
 3. Make some changes and save them as a new commit
 4. Go back to your terminal and text editor. **Notice that you still have the old version.**
 5. On your terminal, run the command `git pull` 
