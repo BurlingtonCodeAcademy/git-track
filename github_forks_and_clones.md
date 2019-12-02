@@ -41,3 +41,22 @@ You can now ask your teammates to review yor pull requests, and they can add com
 # Forking a respository is creating a duplicate of that repo on github.
 
 To add code to a forked repository, you create a new branch on the fork of the upstream repo. After coding and committing locally, you will first pull changes from upstream down. Once the upstream changes are integrated into your local work, you can push your branch up to the fork. Lastly, a PR is created to merge the branch from the fork into a branch from the original or origin repo.
+
+
+# Codepen Prefill Embed Example
+
+<div 
+  class="codepen" 
+  data-prefill 
+  data-height="400" 
+  data-theme-id="1"
+  data-default-tab="html,result" 
+>
+<pre data-lang="html">
+  &lt;div class="module"&gt;
+    &lt;h3&gt;Module Title&lt;/h3&gt;
+    &lt;p&gt;This little piggy went to market.&lt;/p&gt;
+  &lt;/div&gt;
+</pre>
+</div>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
